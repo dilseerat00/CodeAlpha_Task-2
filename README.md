@@ -87,6 +87,6 @@ The **Student Grade Tracker** is a program that allows users (teachers, administ
 ---
 
 ## Conclusion
-These two tasks demonstrate practical Python skills:
-1. **Task 1: Hangman Game** - Focuses on game development, user input handling, and game logic.
-2. **Task 2: Student Grade Tracker** - Focuses on data management, file handling, and data visualization.
+These tasks demonstrate practical Python skills:
+1. **Hangman Game** - Focuses on game development, user input handling, and game logic.
+2. **Student Grade Tracker** - Focuses on data management, file handling, and data visualization.
