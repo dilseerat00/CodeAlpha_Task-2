@@ -9,13 +9,13 @@
    - [Description](#description-1)
    - [Usage](#usage-1)
 
+---
+
 ## Project Overview
 This repository contains two Python projects that help demonstrate Python programming skills through practical applications:
 
 1. **Hangman Game** - A text-based implementation of the classic Hangman game where players must guess letters to reveal a word.
 2. **Student Grade Tracker** - A program to manage student grades, track performance, generate reports, and visualize data.
-
-Both projects showcase practical Python skills in file handling, data processing, and visualization.
 
 ---
 
@@ -90,7 +90,3 @@ The **Student Grade Tracker** is a program that allows users (teachers, administ
 These two tasks demonstrate practical Python skills:
 1. **Task 1: Hangman Game** - Focuses on game development, user input handling, and game logic.
 2. **Task 2: Student Grade Tracker** - Focuses on data management, file handling, and data visualization.
-
-These projects can be further expanded with additional features or improvements based on your needs.
-
-Let me know if you need further assistance or modifications!
